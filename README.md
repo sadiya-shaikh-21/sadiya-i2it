@@ -1,3 +1,3 @@
 # sadiya-i2it
 
-Poject live link: https://node-red-knshw-2020-08-14.eu-gb.mybluemix.net/red/#flow/23f9d7fb.766d28
+Poject live link: https://node-red-knshw-2020-08-14.eu-gb.mybluemix.net/ui/#!/0?socketid=aYSrA3OGKHDK1hLOAAAg
